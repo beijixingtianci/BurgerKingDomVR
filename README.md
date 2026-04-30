@@ -44,11 +44,11 @@ VR 汉堡店经营模拟游戏 —— 在虚拟现实中亲手制作汉堡并管
 ## 项目结构
 
 Assets/
-_Imported/ ← 第三方插件、SDK
-_Project/
-Art/ ← 模型、贴图、材质
-Audio/ ← 音效、音乐
-Prefabs/ ← 预制体
-Scenes/ ← 场景文件
-Scripts/ ← 所有 C# 脚本
-Settings/ ← XR 配置等
+├── _Imported/ ← 第三方插件、SDK
+└── _Project/
+├── Art/ ← 模型、贴图、材质
+├── Audio/ ← 音效、音乐
+├── Prefabs/ ← 预制体
+├── Scenes/ ← 场景文件
+├── Scripts/ ← 所有 C# 脚本
+└── Settings/ ← XR 配置等
